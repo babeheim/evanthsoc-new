@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Keeping up with the literature, part 2"
+date:   2012-10-31
+author: Kathrine Starkweather
+---
+
+In my last installment, I discussed how to keep track of published manuscripts of interest. While RSS feeds and TOCs are great ways to learn about new articles, they are not ideal tools for managing an ever-growing library. Fortunately, a number of reference management programs are available to do just that.
+
+One important feature on which some of the programs differ is reference entry.  Nearly all major reference management programs, including the four outlined below and others like RefWorks, allow for citations to be entered manually. However, some also allow for references to be entered automatically or imported from database searches. University library databases are often compatible with one or more programs, as are academic search engines, like JSTOR and Wiley, and websites of journal publishers, such as Springer. Google Scholar also has a function in the “Settings” menu that allows for citations to be exported with one click to several reference management programs.
+
+Four of the more popular reference management programs differ on other features, as well as price and ease of use, and are reviewed below.
+
+1.    EndNote
+Cost: Full version costs $249.95 to download or $299.95 for a physical copy. Upgrading to the newest version costs $99.95 (download) or $109.95 (CD). Student discounts are available and many university libraries have licenses that make the software free to university affiliates. Storage: References, PDF files, and images can be stored both on the hard drive and online. Currently, there is a 1 GB limit to web-based storage. Reference entry: Manual entry, manual PDF upload. Google Scholar, as well as some libraries and publishers offer one-click entry. Pros: References can be organized into specific libraries and/or stored in one main EndNote library (recommended). References can be labeled with relevant keywords, which allows for quick and easy retrieval of articles in a certain area of interest.  “Cite while you write” function allows the user to build a bibliography for a paper as in-text citations are added. Market dominance and university support mean that Endnote is well-documented and assistance easy to find. Cons: Cost; frequent necessity to upgrade to new versions; interface between hard drive and online version can be tricky; sharing possible, but more difficult than in other programs.
+
+2.    Zotero
+Cost: Free to download from website; $1.67 – $20.00 per month for excess storage. Storage:  Online only but desktop client available; 100 MB storage space. Reference entry:  Automatic entry possible when viewing a book or article online; manual entry possible. Pros: Functions primarily within the web browser, thus transmits information to and from other online services and applications; keyword labeling for easy retrieval of articles; easy, one-click reference entry; “cite while you write” available; sharing possible with other Zotero users. Cons:  Most support is for use within the Firefox browser; not all functions are intuitive; limited storage; can only be used when connected to the internet.
+
+3.    Papers
+Cost: $79; Student discounts available.
+Storage:  Online; unlimited space. Reference entry:  Manual; import references and libraries from EndNote and other reference management tools. Pros: can be used on Mac and PC – same license can be used for both; “cite while you write” capabilities; sharing capabilities with other Papers users; interface similar to iTunes, making use easy for those familiar with Mac programs; available for iPad and iPhone for use on the go (for additional $14.99); assign keywords for quick searches. Cons:  cost; potential lower ease of use for non-Mac users.
+
+4.    Mendeley
+Cost:  Free to download; $4.99 – $9.99 per month for excess storage. Storage: Online; 1 GB storage space. Reference entry: Manual; import; drag and drop capabilities; automatic. Pros:  Available for use on iPad and other mobile devices; “cite while you write” capabilities; annotation abilities in PDFs; import PDFs from EndNote, Papers, or Zotero; sharing capabilities with others on Mendeley. Cons: Intended for use as PDF manager, therefore less useful as reference manager without PDFs.
+
+A variety of other programs not reviewed here (e.g., EverNote, BibTeX) exist to facilitate management and formatting of references. Your choice of program will largely be based on personal preferences, local support, and, very likely, previous familiarity with one or more of the programs. When deciding, ask yourself the following questions: Do you value sharing capabilities? If so, which program do most of your colleagues and collaborators use? Do you need a good desktop client for use when you are away from the Internet? Or do you prefer a program that interfaces easily with web pdfs? Check your library’s website to learn which journals they subscribe to and which reference management tools are offered for free or at discounted prices to ensure that your transition is as easy and inexpensive as possible.
+
+Before selecting your management software, make sure to read the basic documentation available. Many libraries have useful user guides for the most popular choices. Finally, I suggest talking with colleagues about their own reference management strategies. Find out how they organize their references, if and how they share references with students and colleagues, and if they have strong feelings one way or the other about specific software programs. Regardless of the program you choose or the strategies you employ, using a reference management tool like the ones reviewed above can save you time and precious space in your filing cabinets, and is critical to efficient consumption and use of academic literature.
+
+*Kathrine Starkweather is the EAS student representative and a PhD student at the University of Missouri studying marriage and parental investment in small-scale societies.*
