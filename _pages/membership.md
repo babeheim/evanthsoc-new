@@ -4,6 +4,7 @@ layout: single
 permalink: /membership/
 header:
   image: /assets/images/unsplash-image-2.jpg
+author: Bret
 ---
 
 If you are already a member of the American Anthropological Association, then annual dues for joining the EAS are $5 for students, and $10 for non-students. If you are not a member of the AAA, or need to renew your AAA membership, [click here](http://www.aaanet.org/membership/join.cfm). Be sure to add EAS as a section membership!

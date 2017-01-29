@@ -77,17 +77,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bret Beheim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             :
+  avatar           : "/assets/headshots/eas-default.jpg"
+  bio              : "EAS is a community of scholars interested in applying modern evolutionary theory to the analysis of human biology, behavior, and culture. As a part of the American Anthropological Association, EAS is interested in helping students present their research at our annual meeting and building ties across scientific sub-disciplines within the diverse field of anthropology."
+  location         :
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "groups/evanthsociety"
   foursquare       :
   github           :
   google_plus      :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "evanthsociety"
   vine             :
   weibo            :
   xing             :
@@ -239,7 +239,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: false
       comments: # true
       share: true

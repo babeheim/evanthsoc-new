@@ -1,6 +1,6 @@
 ---
 title: Evolutionary Anthropology at the University of Auckland
-author: Siobhan M. Mattison
+author: Siobhán Mattison
 date: 2013-01-01
 layout: single
 ---
