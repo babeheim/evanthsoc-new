@@ -2,7 +2,7 @@
 title: EAS and Interdisciplinary Collaborations
 author: Adam Howell Boyette
 date: 2013-04-01
-layout: post
+layout: single
 ---
 
 # The Culture and the Mind Project

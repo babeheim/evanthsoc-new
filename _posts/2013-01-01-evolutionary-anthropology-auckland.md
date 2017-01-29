@@ -2,7 +2,7 @@
 title: Evolutionary Anthropology at the University of Auckland
 author: Siobhan M. Mattison
 date: 2013-01-01
-layout: post
+layout: single
 ---
 
 North American students may wish to consider venturing to the Antipodes to pursue a PhD in evolutionary anthropology. There are many outstanding

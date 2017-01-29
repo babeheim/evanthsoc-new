@@ -2,7 +2,7 @@
 title: Evolution and Violence
 author: Keith F Otterbein
 date: 2014-02-20
-layout: post
+layout: single
 ---
 
 Napoleon Chagnon and Keith Otterbein shared the stage at the University of Wisconsin on Thursday evening,

@@ -2,7 +2,7 @@
 title: Human Behavioral Ecology and the City
 author: Montserrat Soler
 date: 2012-12-01
-layout: post
+layout: single
 ---
 
 When I began to pursue anthropology seriously as an undergraduate, I envisioned myself doing fieldwork. At that time, I pictured a remote village with elders

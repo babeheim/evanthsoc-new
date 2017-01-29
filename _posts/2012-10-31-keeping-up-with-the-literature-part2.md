@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Keeping up with the literature, part 2"
 date:   2012-10-31
 author: Kathrine Starkweather

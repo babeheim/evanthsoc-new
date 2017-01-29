@@ -2,7 +2,7 @@
 title: EAS at AAA 2012
 author: Adam Howell Boyette
 date: 2013-01-04
-layout: post
+layout: single
 ---
 
 # A Brief Review of Invited Sessions and Membership Business

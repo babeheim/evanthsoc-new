@@ -2,7 +2,7 @@
 title: Human Cooperation at the National Evolutionary Synthesis Center
 author: Lee Cronk
 date: 2013-06-01
-layout: post
+layout: single
 ---
 
 Human cooperation is a broad and diverse phenomenon, and the kinds of scholars who study it are similarly

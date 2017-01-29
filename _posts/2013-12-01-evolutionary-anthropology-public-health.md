@@ -2,7 +2,7 @@
 title: What Evolutionary Anthropologists Can Do for Public Health, and How You Can Get Involved
 author: Bria Dunham
 date: 2013-02-01
-layout: post
+layout: single
 ---
 
 Integrating biocultural and evolutionary insights into public health practice can produce more effective interventions. Doubt me? Scholars working within
