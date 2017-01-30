@@ -1,6 +1,7 @@
 ---
 title: Parting Words
-author: Siobhán M. Mattison, Adam Howell Boyette
+author: Siobhán Mattison
+author2: Adam Howell Boyette
 date: 2015-10-26
 layout: single
 ---

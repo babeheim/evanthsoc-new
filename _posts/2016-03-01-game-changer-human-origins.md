@@ -25,7 +25,7 @@ In the beginning of the workshop, each group was focused on looking at our own m
 
 From the project’s inception, the senior team was dedicated to making the findings open and accessible to both the scientific community and the public. Once we started looking across the regions of the skeleton, it was really fascinating and fun to piece together the morphology, behavior and life history of Homo naledi. A prime example comes from looking at the species’ locomotor pattern: Homo naledi has long legs and modern human­like feet, so they were fully bipedal. But the orientation of their shoulder joints and curved fingers suggest they were still great climbers. Meanwhile, other aspects of the palm and wrist suggest a capacity for tool use, similar to Neandertals and modern humans, although we have yet to find tools in direct association with Homo naledi. All in all, it’s a uniquely mosaic morphology.
 
-![](/assets/images/naledi2.jpg)
+![](/assets/images/naledi2.png)
 
 *Heather Garvin and Jill Scott. Photo courtesy John Hawks/U Wisconsin­Madison*
 
@@ -36,7 +36,7 @@ From the project’s inception, the senior team was dedicated to making the find
 # 4. The Rising Star project included many early career researchers, who surely benefited professionally from the experience. But how did the project benefit from their involvement?
 
 
-![](/assets/images/naledi3.jpg)
+![](/assets/images/naledi3.png)
 
 *The Rising Star Workshop team.*
 

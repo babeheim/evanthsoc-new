@@ -1,6 +1,7 @@
 ---
 title: Napoleon Chagnon Elected to the National Academy of Sciences
-author: Siobhán M Mattison & Bria Dunham
+author: Siobhán Mattison 
+author2: Bria Dunham
 date: 2012-09-01
 layout: single
 ---

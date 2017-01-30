@@ -7,37 +7,38 @@ Mary Shenk:
   avatar           : "/assets/headshots/shenk.jpg"
 
 Siobhán Mattison:
-  name			   : "Siobhán M. Mattison"
+  name			       : "Siobhán M. Mattison"
   avatar           : "/assets/headshots/mattison.jpg"
 
 Kathrine Starkweather:
-  name			   : "Kathrine Starkweather"
+  name			       : "Kathrine Starkweather"
   avatar           : "/assets/headshots/starkweather.jpg"
 
 Keith F Otterbein:
-  name 			   : "Keith F Otterbein"
+  name 			       : "Keith F Otterbein"
 
 Frank Marlowe:
   name             : "Frank Marlowe"
-  avatar           : "/assests/headshots/marlowe.jpg"
+  avatar           : "/assets/headshots/marlowe.jpg"
 
 Raymond Hames:
-  name			   : "Raymond Hames"
-  avatar           : "/assests/headshots/haymes.jpg"
+  name			       : "Raymond Hames"
+  avatar           : "/assets/headshots/haymes.jpg"
 
 Bria Dunham:
-  name			   : "Bria Dunham"
+  name			       : "Bria Dunham"
   avatar           : "/assets/headshots/dunham.jpg"
 
-Monserrat Soler:
-  name			   : "Montserrat Soler"
+Montserrat Soler:
+  name			       : "Montserrat Soler"
+  avatar           : "/assets/headshots/soler.jpg"
 
 Adam Howell Boyette:
-  name			   : "Adam Howell Boyette"
+  name			       : "Adam Howell Boyette"
   avatar           : "/assets/headshots/boyette.jpg"
 
 Lee Cronk:
-  name			   : "Lee Cronk"  
+  name			       : "Lee Cronk"  
   avatar           : "/assets/headshots/cronk.jpg"
 
 Melanie Martin:

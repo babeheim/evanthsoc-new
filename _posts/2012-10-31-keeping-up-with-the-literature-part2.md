@@ -28,4 +28,4 @@ A variety of other programs not reviewed here (e.g., EverNote, BibTeX) exist to 
 
 Before selecting your management software, make sure to read the basic documentation available. Many libraries have useful user guides for the most popular choices. Finally, I suggest talking with colleagues about their own reference management strategies. Find out how they organize their references, if and how they share references with students and colleagues, and if they have strong feelings one way or the other about specific software programs. Regardless of the program you choose or the strategies you employ, using a reference management tool like the ones reviewed above can save you time and precious space in your filing cabinets, and is critical to efficient consumption and use of academic literature.
 
-*Kathrine Starkweather is the EAS student representative and a PhD student at the University of Missouri studying marriage and parental investment in small-scale societies.*
+***Kathrine Starkweather*** *is the EAS student representative and a PhD student at the University of Missouri studying marriage and parental investment in small-scale societies.*

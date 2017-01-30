@@ -107,6 +107,15 @@ author:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
+# Site Author
+author2:
+  name             :
+
+  # Site Author
+author3:
+  name             :
+
+
 # Reading Files
 include:
   - .htaccess
@@ -240,6 +249,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      author2_profile: true
+      author3_profile: true
       read_time: false
       comments: # true
       share: true

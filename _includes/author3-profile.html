@@ -1,0 +1,241 @@
+{% if page.author3 and site.data.authors[page.author3] %}
+  {% assign author3 = site.data.authors[page.author3] %}
+{% else %}
+  {% assign author3 = site.author3 %}
+{% endif %}
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  {% if author3.avatar %}
+    <div class="author3__avatar">
+      {% if author3.avatar contains "://" %}
+        <img src="{{ author3.avatar }}" alt="{{ author3.name }}" itemprop="image">
+      {% else %}
+        <img src="{{ author3.avatar | absolute_url }}" class="author3__avatar" alt="{{ author3.name }}" itemprop="image">
+      {% endif %}
+    </div>
+  {% endif %}
+
+  <div class="author3__content">
+    <h3 class="author3__name" itemprop="name">{{ author3.name }}</h3>
+    {% if author3.bio %}
+      <p class="author3__bio" itemprop="description">
+        {{ author3.bio }}
+      </p>
+    {% endif %}
+  </div>
+
+  <div class="author3__urls-wrapper">
+    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
+    <ul class="author3__urls social-icons">
+      {% if author3.location %}
+        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span itemprop="name">{{ author3.location }}</span>
+        </li>
+      {% endif %}
+
+      {% if author3.uri %}
+        <li>
+          <a href="{{ author3.uri }}" itemprop="url">
+            <i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.email %}
+        <li>
+          <a href="mailto:{{ author3.email }}">
+            <meta itemprop="email" content="{{ author3.email }}" />
+            <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.keybase %}
+        <li>
+          <a href="https://keybase.io/{{ author3.keybase }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.twitter %}
+        <li>
+          <a href="https://twitter.com/{{ author3.twitter }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.facebook %}
+        <li>
+          <a href="https://www.facebook.com/{{ author3.facebook }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.google_plus %}
+        <li>
+          <a href="https://plus.google.com/+{{ author3.google_plus }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-google-plus-square" aria-hidden="true"></i> Google+
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.linkedin %}
+        <li>
+          <a href="https://www.linkedin.com/in/{{ author3.linkedin }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.xing %}
+        <li>
+          <a href="https://www.xing.com/profile/{{ author3.xing }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-xing-square" aria-hidden="true"></i> XING
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.instagram %}
+        <li>
+          <a href="https://instagram.com/{{ author3.instagram }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-instagram" aria-hidden="true"></i> Instagram
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.tumblr %}
+        <li>
+          <a href="https://{{ author3.tumblr }}.tumblr.com" itemprop="sameAs">
+            <i class="fa fa-fw fa-tumblr-square" aria-hidden="true"></i> Tumblr
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.bitbucket %}
+        <li>
+          <a href="https://bitbucket.org/{{ author3.bitbucket }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.github %}
+        <li>
+          <a href="https://github.com/{{ author3.github }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.stackoverflow %}
+        <li>
+          <a href="https://www.stackoverflow.com/users/{{ author3.stackoverflow }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.lastfm %}
+        <li>
+          <a href="https://last.fm/user/{{ author3.lastfm }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-lastfm-square" aria-hidden="true"></i> Last.fm
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.dribbble %}
+        <li>
+          <a href="https://dribbble.com/{{ author3.dribbble }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-dribbble" aria-hidden="true"></i> Dribbble
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.pinterest %}
+        <li>
+          <a href="https://www.pinterest.com/{{ author3.pinterest }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-pinterest" aria-hidden="true"></i> Pinterest
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.foursquare %}
+        <li>
+          <a href="https://foursquare.com/{{ author3.foursquare }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-foursquare" aria-hidden="true"></i> Foursquare
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.steam %}
+        <li>
+          <a href="https://steamcommunity.com/id/{{ author3.steam }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-steam-square" aria-hidden="true"></i> Steam
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.youtube %}
+        {% if author3.youtube contains "://" %}
+          <li>
+            <a href="{{ author3.youtube }}" itemprop="sameAs">
+              <i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube
+            </a>
+          </li>
+        {% else author3.youtube %}
+          <li>
+            <a href="https://www.youtube.com/user/{{ author3.youtube }}" itemprop="sameAs">
+              <i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube
+            </a>
+          </li>
+        {% endif %}
+      {% endif %}
+
+      {% if author3.soundcloud %}
+        <li>
+          <a href="https://soundcloud.com/{{ author3.soundcloud }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.weibo %}
+        <li>
+          <a href="https://www.weibo.com/{{ author3.weibo }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-weibo" aria-hidden="true"></i> Weibo
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.flickr %}
+        <li>
+          <a href="https://www.flickr.com/{{ author3.flickr }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-flickr" aria-hidden="true"></i> Flickr
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.codepen %}
+        <li>
+          <a href="https://codepen.io/{{ author3.codepen }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-codepen" aria-hidden="true"></i> CodePen
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author3.vine %}
+        <li>
+          <a href="https://vine.co/u/{{ author3.vine }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-vine" aria-hidden="true"></i> Vine
+          </a>
+        </li>
+      {% endif %}
+
+      {% include author3-profile-custom-links.html %}
+    </ul>
+  </div>
+</div>

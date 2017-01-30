@@ -1,6 +1,7 @@
 ---
 title: EAS at AAA 2016
-author: Melanie Martin, Katie Starkweather
+author: Melanie Martin
+author2: Katie Starkweather
 date: 2016-11-08
 layout: single
 ---

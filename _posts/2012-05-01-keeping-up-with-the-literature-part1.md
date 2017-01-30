@@ -23,4 +23,4 @@ In reality, most academics probably use a combination of all of these methods. R
 
 Stay tuned for my next installment, where I discuss the programs available to manage references compiled through the means discussed above.
 
-*Kathrine Starkweather is the EAS student representative and is a PhD student at the University of Missouri studying marriage and parental investment in small-scale societies.*
+***Kathrine Starkweather*** *is the EAS student representative and is a PhD student at the University of Missouri studying marriage and parental investment in small-scale societies.*

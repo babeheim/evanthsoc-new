@@ -1,6 +1,8 @@
 ---
 title: Evolutionary Approaches to Kinship and Family
-author: Siobhán M Mattison, Mary K Shenk & Raymond Hames
+author: Siobhán Mattison
+author2: Mary Shenk 
+author3: Raymond Hames
 date: 2012-04-02
 layout: single
 ---

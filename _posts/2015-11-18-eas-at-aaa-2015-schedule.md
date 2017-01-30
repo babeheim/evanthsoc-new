@@ -1,6 +1,7 @@
 ---
 title: EAS at the 2015 AAA Meetings
-author: Melanie Martin, Katie Starkweather
+author: Melanie Martin
+author2: Katie Starkweather
 date: 2015-11-18
 ---
 

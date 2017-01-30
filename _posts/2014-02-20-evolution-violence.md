@@ -1,6 +1,7 @@
 ---
 title: Evolution and Violence
-author: Keith F Otterbein
+author: Adam Howell Boyette
+author2: Siobhán Mattison
 date: 2014-02-20
 layout: single
 ---
@@ -18,7 +19,7 @@ anthropologists, they did not attempt to demonstrate the Yanomamö chest poundin
 
 # Ask the Editors
 
-The editors of this column (Adam Howell Boyette and Siobán Mattison) would like to take this opportunity to
+The editors of this column (Adam Howell Boyette and Siobhán Mattison) would like to take this opportunity to
 announce a forthcoming periodic “Ask the Editors” series, in which we respond to questions posed by the
 membership. Questions might pertain to careers in evolutionary anthropology, teaching evolutionary
 anthropology, specific subjects that you believe would benefit from expert opinions, or any other relevant area of

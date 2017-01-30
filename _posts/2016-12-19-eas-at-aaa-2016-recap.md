@@ -1,6 +1,7 @@
 ---
 title: EAS at the 2016 AAA meetings in Minneapolis
-author: Kathrine Starkweather, Melanie Martin
+author: Kathrine Starkweather
+author2: Melanie Martin
 layout: single
 date: 2016-12-19
 ---
