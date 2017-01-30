@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "News & Annoucements"
-    url: /news/
   - title: "About"
     url: /about/
   - title: "Join Us"

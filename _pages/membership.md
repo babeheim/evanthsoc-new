@@ -1,5 +1,5 @@
 ---
-title: "Join Us"
+title: "Become a Member of the Society"
 layout: single
 permalink: /membership/
 header:

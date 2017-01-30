@@ -12,7 +12,7 @@ formal models of cultural evolution and the interaction of culture, genetics and
 cultural-evolutionary models to demographic issues in China, and using human genetics to challenge racist
 theories of intelligence.
 
-!["test"](/assets/img/feldman.png)
+![](/assets/images/feldman.png)
 
 Put concisely by his Stanford colleague and EAS member James
 Holland Jones, Feldman’s “scientific contributions are

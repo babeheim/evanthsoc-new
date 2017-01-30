@@ -11,7 +11,7 @@ elected members of the National Academy of Sciences (NAS). His election not only
 accusations that have undermined his reputation and career, but is an achievement that reflects well upon our
 discipline.
 
-![Napoleon Chagnon, newly elected member of National Academy of Sciences. Photo courtesy Chris Chagnon](/assets/img/chagnon.png)
+![](/assets/images/chagnon.png)
 
 *Napoleon Chagnon, newly elected member of National Academy of Sciences. Photo courtesy Chris Chagnon*
 
@@ -47,6 +47,10 @@ outstanding contribution to evolutionary science.” As a pioneer of evolutionar
 establishing ourselves first in the field, and later as academic professionals,” writes Borgerhoff Mulder. Lee Cronk (Rutgers U) concurs, “[He] has provided an
 example of how it is possible to overcome seemingly insurmountable obstacles—whether in the field or among one’s colleagues—in order to do first-rate, cutting-
 edge scientific research...” Chagnon reinforces the critical role that science plays in the AAA: “... the AAA has a major responsibility to advocate and promote element in their ‘mission’ if anthropologists—all anthropologists—are to remain credible in the eyes of the public.”
+
+
+![](/assets/images/noble-savages.png)
+
 
 Chagnon, now an adjunct research scientist at the University of Michigan, his alma mater, continues to advance scientific
 approaches to the study of human nature. Though he has not returned to Venezuela since 1993, he, with support of U
