@@ -42,12 +42,13 @@ EAS aims to be a unifying force in the AAA, not a divisive one. As anthropologis
 - Jeffrey Winking, Member-at-Large (2014-18)
 - Rebecca Sear, Member-at-Large (2016-20)
 - Daniel Hruschka, Member-at-Large (2016-20)
-- Katie Starkweather, Contributing Co-Editor (2016-20)*
+- Kathryn Starkweather, Contributing Co-Editor (2016-20)*
 - Melanie Martin, Contributing Co-Editor (2016-20)*
-- Bria Dunham, Webmaster (2012-16)*
+- Bret Beheim, Webmaster (2016-20)*
+
+*: Non-voting members
 
 ## Past Board Members:
 
 Frank Marlowe • Brooke Scelza • Monique Borgerhoff Mulder • Donna Leonetti • John Ziker • Pat Draper • Michael Alvard • Eric A. Smith • Tim Earle • Lee Cronk • Patricia C Draper • Elizabeth Cashdan • David Nolin • James Boster • Bill Irons • Jane Lancaster • Mary Shenk • Brian Wood • John Patton • Carol Ember • Shane Macfarlan
 
-*: Non-voting members
