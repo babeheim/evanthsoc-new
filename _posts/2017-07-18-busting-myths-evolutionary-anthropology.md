@@ -3,6 +3,7 @@ title: Busting Myths about Evolutionary Anthropology
 author: Peter Richerson
 author2: Raymond Hames
 date: 2017-07-18
+excerpt: "Quarrels over human sociobiology in the 1970s and 1980s introduced several myths into anthropology. Although the heat has gone out of that controversy, these myths still divide the evolutionary and sociocultural subfields."
 layout: single
 ---
 

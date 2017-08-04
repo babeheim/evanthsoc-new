@@ -2,6 +2,7 @@
 title: EAS Quarterly Newsletter
 author: Delaney Glass
 date: 2017-05-29
+excerpt: "The school year is winding down, but the field season is just beginning. Here are a few updates and announcements to get you up to date with what’s happening at the Evolutionary Anthropology Society."
 layout: single
 ---
 

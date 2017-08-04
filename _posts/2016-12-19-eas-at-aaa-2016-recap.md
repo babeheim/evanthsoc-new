@@ -2,6 +2,7 @@
 title: EAS at the 2016 AAA meetings in Minneapolis
 author: Kathrine Starkweather
 author2: Melanie Martin
+excerpt: "Session recaps, Investigator Awards, and Society Announcements"
 layout: single
 date: 2016-12-19
 ---
