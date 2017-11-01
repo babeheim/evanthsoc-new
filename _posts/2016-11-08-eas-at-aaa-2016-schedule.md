@@ -17,7 +17,9 @@ Back by popular demand is a list by day of EAS sessions and a list of non­EAS s
 * EAS: Evolutionary Anthropology Society
 * EPC: Executive Program Committee
 * NAPA: National Association for the Practice of Anthropology SAC: Society for the Anthropology of Consciousness
-* SAS: Society for Anthropological Sciences SEA: Society for Economic Anthropology SMA: Society for Medical Anthroplogy
+* SAS: Society for Anthropological Sciences 
+* SEA: Society for Economic Anthropology 
+* SMA: Society for Medical Anthroplogy
 * SPA: Society for Psychological Anthropology
 
 
