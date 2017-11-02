@@ -29,7 +29,7 @@ Hi Evolutionary Anthropology Society (EAS) members! Here is a list of EAS sessio
 
 - 10:15 AM - 12:00 PM, The Roles of Women Across Cultures in Behavioral Ecological Perspective: Kinship and Social Organization (Part 2), location: Marriott, Wilson C
 
-- **note** *the EAS session "Evolutionary Dynamics of Culture: Networks, Phylogenies, Ideologies & Health" is also scheduled to run at 10:15 AM - 12:00 PM, in Marriott, Roosevelt 4. To allow EAS members to attend both, this session will be run twice, first at the scheduled time and place, and a second time Saturday, at the location described below.*
+- **note** *the EAS session "Evolutionary Dynamics of Culture: Networks, Phylogenies, Ideologies & Health" is also scheduled to run at 10:15 AM - 12:00 PM, in Marriott, Roosevelt 4. To allow members to attend every EAS session, this session will be run twice, first at the scheduled time and place, and a second time Saturday, at the location described below.*
 
 ## Saturday, December 2, 2017
 
