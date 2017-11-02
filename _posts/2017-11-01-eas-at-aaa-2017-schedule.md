@@ -31,8 +31,6 @@ Hi Evolutionary Anthropology Society (EAS) members! Here is a list of EAS sessio
 
 - **note** *the EAS session "Evolutionary Dynamics of Culture: Networks, Phylogenies, Ideologies & Health" is also scheduled to run at 10:15 AM - 12:00 PM, in Marriott, Roosevelt 4. To allow EAS members to attend both, this session will be run twice, first at the scheduled time and place, and a second time Saturday, at the location described below.*
 
-- **note** *the EAS Business Meeting has been moved to Saturday evening at a different location, see below.*
-
 ## Saturday, December 2, 2017
 
 - 4:15 PM - 5:45 PM, Evolutionary Dynamics of Culture: Networks, Phylogenies, Ideologies & Health, location: [James Hoban's Irish Restaurant and Bar](http://jameshobansdc.com/) (*this session is being run twice, see above*)
