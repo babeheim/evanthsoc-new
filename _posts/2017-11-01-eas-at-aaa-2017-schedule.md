@@ -3,7 +3,7 @@ title: EAS at AAA 2017
 author: Anne Pisor
 author2: Mary Shenk
 date: 2017-11-01
-excerpt: "a list of EAS sessions at AAA 2017 in Washington, DC, as well as other sessions of possible interest"
+excerpt: "a list of EAS sessions, roundtables, meetings, and social events at AAA 2017 in Washington, DC, as well as other sessions of possible interest"
 layout: single
 ---
 
