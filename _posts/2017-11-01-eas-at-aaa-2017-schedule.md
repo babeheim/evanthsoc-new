@@ -5,6 +5,11 @@ author2: Mary Shenk
 date: 2017-11-01
 excerpt: "a list of EAS sessions, roundtables, meetings, and social events at AAA 2017 in Washington, DC, as well as other sessions of possible interest"
 layout: single
+thumbnail: /assets/marriott-dc.jpg
+# header:
+#  image: /assets/marriott-dc.jpg
+#  og_image: /assets/marriott-dc.jpg
+#  twitter_image: /assets/marriott-dc.jpg
 ---
 
 
