@@ -4,6 +4,7 @@ layout: single
 permalink: /about/
 header:
   image: /assets/images/zanzibar-outrigger.jpg
+  caption: "Photo credit: [**Brian Wood**](http://www.brianwoodresearch.com/)"
 ---
 
 The Evolutionary Anthropology Society is a section of the American Anthropological Association. We bring together those interested in applying modern evolutionary theory to the analysis of human biology, behavior, and culture. Our main goals are to:

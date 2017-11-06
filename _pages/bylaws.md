@@ -4,6 +4,7 @@ layout: single
 permalink: /bylaws/
 header:
   image: /assets/images/datoga-salt-plains.jpg
+  caption: "Photo credit: [**Brian Wood**](http://www.brianwoodresearch.com/)"
 ---
 
 BYLAWS
