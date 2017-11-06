@@ -36,14 +36,14 @@ EAS aims to be a unifying force in the AAA, not a divisive one. As anthropologis
 
 - Peter Richerson, Past-President (2018-20)
 - Mary Shenk, President (2018-20)
-- Brooke Schelza, President-Elect (2018-20)
+- Brooke Scelza, President-Elect (2018-20)
 - Dawn Neill, Secretary/Treasurer (2016-20)
 - Rebecca Sear, Member-at-Large (2016-20)
 - Daniel Hruschka, Member-at-Large (2016-20)
 - Chris von Rueden, Member-at-Large (2018-22)
-- Siobhan Mattison, Member-at-Large (2018-22)
+- Siobhán Mattison, Member-at-Large (2018-22)
 - Sarah Alami, Student Rep (2018-20)
-- Kathryn Starkweather, Contributing Co-Editor (2016-20)*
+- Kathrine Starkweather, Contributing Co-Editor (2016-20)*
 - Melanie Martin, Contributing Co-Editor (2016-20)*
 - Bret Beheim, Webmaster (2016-20)*
 
