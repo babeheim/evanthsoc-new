@@ -5,15 +5,14 @@ author2: Mary Shenk
 date: 2017-11-01
 excerpt: "a list of EAS sessions, roundtables, meetings, and social events at AAA 2017 in Washington, DC, as well as other sessions of possible interest"
 layout: single
-thumbnail: /assets/marriott-dc.jpg
-# header:
-#  image: /assets/marriott-dc.jpg
-#  og_image: /assets/marriott-dc.jpg
-#  twitter_image: /assets/marriott-dc.jpg
+thumbnail: /assets/images/marriott-dc.jpg
+header:
+  og_image: http://evanthsoc.org/assets/images/marriott-dc.jpg
 ---
 
 
 ![](/assets/images/marriott-dc.jpg)
+
 
 Hi Evolutionary Anthropology Society (EAS) members! Here is a list of EAS sessions at AAA 2017, as well as other sessions of possible interest (sorry if we have overlooked a group or talk of interest). We’re looking forward to seeing you all in Washington, DC!
 
