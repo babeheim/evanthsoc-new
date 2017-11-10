@@ -2,6 +2,9 @@ Anne Pisor:
   name             : "Anne Pisor"
   avatar           : "/assets/headshots/pisor.jpg"
 
+Monique Borgerhoff Mulder:
+  name             : "Monique Borgerhoff Mulder"
+  avatar           : "./assets/headshots/monique.png"
 
 Bret Beheim:
   name             : "Bret Beheim"
