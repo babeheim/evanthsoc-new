@@ -2,7 +2,7 @@
 title: Evolutionary Anthropology Graduate Programs II
 author: Melanie Martin
 date: 2017-08-01
-excerpt: "The Inaugural Meeting of the Cultural Evolution Society was held in Jena, Germany, September 13–15, 2017."
+excerpt: "the second in a series highlighting US graduate programs in evolutionary anthropology"
 layout: single
 ---
 
