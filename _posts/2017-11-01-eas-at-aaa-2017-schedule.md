@@ -27,17 +27,20 @@ Hi Evolutionary Anthropology Society (EAS) members! Here is a list of EAS sessio
 
 - 6:30 PM - 8:15 PM, Intercommunity relationships and cultural evolution: Diverse anthropology for a diversity of experience, location: Marriott, Roosevelt 4
 
+- 8:00 PM start, mixer at [Fado Irish Pub](https://fadoirishpub.com/washington/) (808 7th St. NW; Reservation under Scelza) 
+
 ## Friday, December 1, 2017
 
 - 8:00 AM - 9:45 AM, The Roles of Women Across Cultures in Behavioral Ecological Perspective: Economic and Subsistence Roles (Part 1), location: Marriott, Wilson C
 
 - 10:15 AM - 12:00 PM, The Roles of Women Across Cultures in Behavioral Ecological Perspective: Kinship and Social Organization (Part 2), location: Marriott, Wilson C
 
-- **note** *the EAS session "Evolutionary Dynamics of Culture: Networks, Phylogenies, Ideologies & Health" is also scheduled to run at 10:15 AM - 12:00 PM, in Marriott, Roosevelt 4. To allow members to attend every EAS session, this session will be run twice, first at the scheduled time and place, and a second time Saturday, at the location described below.*
+<!-- 
+- **note** *the EAS session "Evolutionary Dynamics of Culture: Networks, Phylogenies, Ideologies & Health" is also scheduled to run at 10:15 AM - 12:00 PM, in Marriott, Roosevelt 4. To allow members to attend every EAS session, this session will be run twice, first at the scheduled time and place, and a second time Saturday, at the location described below.* -->
 
 ## Saturday, December 2, 2017
 
-- 4:15 PM - 5:45 PM, Evolutionary Dynamics of Culture: Networks, Phylogenies, Ideologies & Health, location: [James Hoban's Irish Restaurant and Bar](http://jameshobansdc.com/) (*this session is being run twice, see above*)
+- 4:15 PM - 5:45 PM, Evolutionary Dynamics of Culture: Networks, Phylogenies, Ideologies & Health, location: [James Hoban's Irish Restaurant and Bar](http://jameshobansdc.com/) (*new time and location*)
 
 - 6:00 PM - 7:00 PM, Evolutionary Anthropology Society Business Meeting, location: [James Hoban's Irish Restaurant and Bar](http://jameshobansdc.com/) (*new time and location*)
 
