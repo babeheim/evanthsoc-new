@@ -6,3 +6,5 @@ main:
     url: /membership/
   - title: "Archive"
     url: /year-archive/
+  - title: "Officers"
+    url: /about#board-members
