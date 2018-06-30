@@ -2,7 +2,7 @@
 title: EAS Quarterly Newsletter
 author: Delaney Glass
 date: 2018-06-23
-excerpt: "Happy 2018! For those of you not able to make the 2017 meetings in Washington, DC, we had a great series of sessions..."
+excerpt: "We hope you’re enjoying the end of the school year and the start of summer. We’ve been hard at work getting ready for this fall’s AAA meetings in San Jose..."
 layout: single
 ---
 
@@ -23,7 +23,7 @@ We hope you’re enjoying the end of the school year and the start of summer. We
 Enjoy your summer—and get in touch if you have things you’d like to share!  We’ll be back in September with some more annual meeting updates and other announcements of interest.
  
 The EAS Presidents
-Mary Shenk, Brooke Scelza & Pete Richerson
+<br />Mary Shenk, Brooke Scelza & Pete Richerson
  
 # Upcoming Conferences
 
