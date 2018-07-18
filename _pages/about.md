@@ -35,9 +35,9 @@ EAS aims to be a unifying force in the AAA, not a divisive one. As anthropologis
 
 # Board Members
 
-- Peter Richerson, Past-President (2018-20)
-- [Mary Shenk](&#109;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#x6d;&#107;&#x73;&#55;&#x34;&#64;&#x70;&#x73;&#117;&#x2e;&#x65;&#100;&#x75;), President (2018-20)
-- Brooke Scelza, President-Elect (2018-20)
+- [Peter Richerson](http://www.des.ucdavis.edu/faculty/Richerson/Richerson.htm), Past-President (2018-20)
+- [Mary Shenk](http://faculty.missouri.edu/~shenkm/), President (2018-20)
+- [Brooke Scelza](https://www.anthro.ucla.edu/faculty/brooke-scelza), President-Elect (2018-20)
 - [Dawn Neill](&#109;&#x61;&#105;&#108;&#x74;&#111;&#x3a;&#100;&#98;&#x6e;&#101;&#x69;&#108;&#108;&#64;&#99;&#97;&#x6c;&#112;&#111;&#x6c;&#x79;&#46;&#x65;&#100;&#117;), Secretary/Treasurer (2016-20)
 - Rebecca Sear, Member-at-Large (2016-20)
 - Daniel Hruschka, Member-at-Large (2016-20)
