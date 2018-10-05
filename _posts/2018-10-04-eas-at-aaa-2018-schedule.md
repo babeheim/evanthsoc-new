@@ -28,8 +28,6 @@ All locations TBD!
 
 - 8:00 AM - 9:45 AM, [Landscape Use and Change: Evolutionary Perspectives](https://goo.gl/FYpdU2)
 
-- 2:00 PM - 3:50 PM [Evolutionary Anthropology Society (EAS) Board Meeting](https://goo.gl/j4RNf4)
-
 
 ## Friday, November 16, 2018
 
