@@ -27,7 +27,7 @@ All locations TBD!
 
 - 10:15 AM - 12:00 PM [Social Capital in the Face of Uncertainty](https://goo.gl/AKPhWG)
 
-- 2:00 - 3:45 PM [Ages and Stages: Child learning, exploration, and helping behaviors in foraging and transitioning populations.Invited](https://goo.gl/3Cc4fM)
+- 2:00 - 3:45 PM [Ages and Stages: Child learning, exploration, and helping behaviors in foraging and transitioning populations](https://goo.gl/3Cc4fM)
 
 ## Saturday, November 17th, 2018
 
