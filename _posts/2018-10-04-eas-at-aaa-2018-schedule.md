@@ -18,12 +18,6 @@ All locations TBD!
 
 # EAS sessions
 
-## Wednesday, November 14th, 2018
-
-- 2:15 - 4:00 PM, [The Resistance to and Resilience of Adaptation: The Place of Evolutionary Theory in Biocultural Anthropology: Part I](https://goo.gl/FKx4BB)
-
-- 4:30 - 6:15 PM, [The Resistance to and Resilience of Adaptation: The Place of Evolutionary Theory in Biocultural Anthropology: Part II](https://goo.gl/dQ1opK)
-
 ## Thursday, November 15th, 2018
 
 - 8:00 - 9:45 AM, [Landscape Use and Change: Evolutionary Perspectives](https://goo.gl/FYpdU2)
@@ -48,21 +42,18 @@ All locations TBD!
 
 # Other sessions of potential interest
 
-Abbreviations:
+## Wednesday, November 14th, 2018
 
-* **BAS**: Biological Anthropology Section
-* **SAS**: Society for Anthropological Sciences 
-* **AAP**: Association for the Anthropology of Policy
+- 2:15 - 4:00 PM, [The Resistance to and Resilience of Adaptation: The Place of Evolutionary Theory in Biocultural Anthropology: Part I](https://goo.gl/FKx4BB) (Biological Anthropology Section)
+
+- 4:30 - 6:15 PM, [The Resistance to and Resilience of Adaptation: The Place of Evolutionary Theory in Biocultural Anthropology: Part II](https://goo.gl/dQ1opK) (Biological Anthropology Section)
+
 
 ## Thursday, November 15th, 2018
 
-SAS
-
-- 10:15 AM - 12:00 PM - [Networked Environments](https://goo.gl/3AENqB)
+- 10:15 AM - 12:00 PM - [Networked Environments](https://goo.gl/3AENqB) (Society for Anthropological Sciences)
 
 
 ## Friday, November 17th, 2018
 
-SAS/BAS
-
-- 2:00 - 3:45 PM [Experimental methods in anthropology](https://goo.gl/UhVh4z)
+- 2:00 - 3:45 PM [Experimental methods in anthropology](https://goo.gl/UhVh4z) (Biological Anthropology Section/Society for Anthropological Sciences)
