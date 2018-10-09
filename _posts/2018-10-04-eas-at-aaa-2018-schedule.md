@@ -18,24 +18,24 @@ All locations TBD!
 
 # EAS sessions
 
-## Wednesday, November 14, 2018
+## Wednesday, November 14th, 2018
 
 - 2:15 - 4:00 PM, [The Resistance to and Resilience of Adaptation: The Place of Evolutionary Theory in Biocultural Anthropology: Part I](https://goo.gl/FKx4BB)
 
 - 4:30 - 6:15 PM, [The Resistance to and Resilience of Adaptation: The Place of Evolutionary Theory in Biocultural Anthropology: Part II](https://goo.gl/dQ1opK)
 
-## Thursday, November 15, 2018
+## Thursday, November 15th, 2018
 
 - 8:00 - 9:45 AM, [Landscape Use and Change: Evolutionary Perspectives](https://goo.gl/FYpdU2)
 
 
-## Friday, November 16, 2018
+## Friday, November 16th, 2018
 
 - 10:15 AM - 12:00 PM [Social Capital in the Face of Uncertainty](https://goo.gl/AKPhWG)
 
 - 2:00 - 3:45 PM [Ages and Stages: Child learning, exploration, and helping behaviors in foraging and transitioning populations.Invited](https://goo.gl/3Cc4fM)
 
-## Saturday, November 17, 2018
+## Saturday, November 17th, 2018
 
 - 10:15 AM - 12:00 PM [Updating our understanding of economic games: Innovations, complications, and interpretations](https://goo.gl/Kbt3Fs)
 
