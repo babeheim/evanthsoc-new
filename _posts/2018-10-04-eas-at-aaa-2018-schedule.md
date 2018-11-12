@@ -13,6 +13,7 @@ header:
 
 This year the American Anthropological Association's Annual Convention will be held in the San Jose McEnery Convention Center ([google map](https://www.google.de/maps/place/150+W+San+Carlos+St,+San+Jose,+CA+95113,+USA/data=!4m2!3m1!1s0x808fccbaf6542615:0xec55e44f67e4380a?sa=X&ved=2ahUKEwihsImrrO3dAhUOsKQKHbp0BcsQ8gEwAHoECAAQAQ)). The full conference program is available [here](https://www.eventscribe.net/2018/AAA/), and below are links to each individual EAS session, and to related sessions of interest.
 
+**note: Due to the Marriott labor dispute, some rooms are likely to be changed**
 
 # EAS sessions
 
@@ -20,6 +21,7 @@ This year the American Anthropological Association's Annual Convention will be h
 
 - 8:00 - 9:45 AM, [Landscape Use and Change: Evolutionary Perspectives](https://goo.gl/FYpdU2), Market I \| Hilton \| Lobby/Street Level
 
+- 8:00 PM start, Annual Networking Mixer, [Cinebar San Jose](https://www.facebook.com/cinebarsj/?rf=302975103072031) (no host)
 
 ## Friday, November 16th, 2018
 
@@ -36,6 +38,8 @@ This year the American Anthropological Association's Annual Convention will be h
 - 4:15 - 6:00 PM, [Open Science and the Anthropological Imagination - Resilience and Adaptation amidst a Global Crisis in Replication and Scientific Practice](https://goo.gl/L4bCCC), LL 21 A \| San Jose CC \| Lower Level
 
 - 4:15 - 6:00 PM, [Biocultural Perspectives on Children and Child-Care](https://goo.gl/T3wofo), Almaden \| Marriott \| Level 3
+
+- 8:00 PM, EAS Annual Party, location TBD
 
 
 # Other sessions of potential interest
