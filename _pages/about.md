@@ -52,5 +52,5 @@ EAS aims to be a unifying force in the AAA, not a divisive one. As anthropologis
 
 ## Past Board Members:
 
-Frank Marlowe • Brooke Scelza • Monique Borgerhoff Mulder • Donna Leonetti • John Ziker • Pat Draper • Michael Alvard • Eric A. Smith • Tim Earle • Lee Cronk • Patricia C Draper • Elizabeth Cashdan • David Nolin • James Boster • Bill Irons • Jane Lancaster • Mary Shenk • Brian Wood • John Patton • Carol Ember • Shane Macfarlan • Anne Pisor
+Frank Marlowe • Brooke Scelza • Monique Borgerhoff Mulder • Donna Leonetti • John Ziker • Pat Draper • Michael Alvard • Eric A. Smith • Tim Earle • Lee Cronk • Patricia C Draper • Elizabeth Cashdan • David Nolin • James Boster • Bill Irons • Jane Lancaster • Mary Shenk • Brian Wood • John Patton • Carol Ember • Shane Macfarlan • Anne Pisor • Adam Boyette
 
