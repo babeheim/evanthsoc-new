@@ -55,8 +55,12 @@ Melanie Martin:
 
 Delaney Glass:
   name             : "Delaney Glass"
-#  avatar           : "/assets/headshots/delaney2.jpg"
+  avatar           : "/assets/headshots/delaney3.jpg"
 
 Peter Richerson:
   name             : "Peter Richerson"
   avatar           : "/assets/headshots/richerson.jpg"
+
+Sarah Alami:
+  name             : "Sarah Alami"
+  avatar           : "/assets/headshots/alami.jpg"
