@@ -34,7 +34,7 @@ Congratulations to our 2018 winners!
 
 Finally, we would like to update you on the question of the future of EAS about which we circulated a survey last fall. As many of you are aware, some EAS members are interested in examining the possibility of EAS aligning itself with another organization (such as the AAPA or HBES) instead of with the AAA, while others are interested in considering a joint arrangement of some kind. Still others would prefer to remain in the AAA.
 
-The results of the survey (both quantitative and qualitative) are mixed; many people indicated a preference for moving while others indicated a preference for staying. We discussed this topic in some detail at both the EAS Business Meeting and the EAS Board Meeting. The upshot was that we will be researching options for staying, going, and any potential alternatives, with the goal of presenting options for a vote of the EAS membership sometime in 2019.
+The [results of the survey](/assets/pdfs/EASSurveyResults.pdf) (both quantitative and qualitative) are mixed; many people indicated a preference for moving while others indicated a preference for staying. We discussed this topic in some detail at both the EAS Business Meeting and the EAS Board Meeting. The upshot was that we will be researching options for staying, going, and any potential alternatives, with the goal of presenting options for a vote of the EAS membership sometime in 2019.
 
 Survey results are posted on the EAS website if you would like to take a look. Please feel free to contact Mary Shenk and/or Brooke Scelza if you have thoughts on this matter that you have not already shared. We are taking all opinions quite seriously and plan to make a detailed report prior to any voting.
 
