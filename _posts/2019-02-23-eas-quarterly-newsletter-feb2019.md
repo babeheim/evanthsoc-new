@@ -3,7 +3,7 @@ title: EAS Quarterly Newsletter
 author: Delaney Glass
 author2: Sarah Alami
 date: 2019-02-23
-excerpt: "a list of EAS sessions, roundtables, meetings, and social events at AAA 2018 in San Jose, California as well as other sessions of possible interest"
+excerpt: "Thanks to everyone who attended the very successful 2018 AAA meetings. EAS sponsored 7 sessions, which were well-attended and showcased some great science!"
 layout: single
 ---
 
@@ -110,3 +110,14 @@ University of Washington biological anthropology graduate students Delaney Glass
 EAS member Courtney Meehan featured in a [Sausage of Science](https://soundcloud.com/humanbiologyassociation/sos-episode-24-milk-microbiomes-and-social-networks-a-chat-with-courtney-meehan) podcast episode
 
 Daniel Nettle's series of blogposts is now published as an open access ebook: [Hanging on to the Edges: Essays on Science, Society and the Academic Life](https://www.openbookpublishers.com/product/842)
+
+[What Star Trek Can Tell Us About Genetics and Evolution](https://evanthsoc.us15.list-manage.com/track/click?u=b66d0effc60d7e0f8e9508bd8&id=098a1171d5&e=873ff7a1dd)
+Article from: Duke Today
+
+[Podcast: Sausage of Science](https://evanthsoc.us15.list-manage.com/track/click?u=b66d0effc60d7e0f8e9508bd8&id=ea1f560bb0&e=873ff7a1dd)
+Zachary Dubois on Transgender Experience & Health
+Podcast from: Sausage of Science
+
+[What Can Fossils Tell Us About Early Human Diets?](
+https://evanthsoc.us15.list-manage.com/track/click?u=b66d0effc60d7e0f8e9508bd8&id=4858e331f7&e=873ff7a1dd)
+By: Briana Pobiner
