@@ -15,7 +15,7 @@ Dear EAS Members,
 
 Welcome back for fall 2019!
 
-We’d like to start by announcing the winners of the EAS Election: Karen Kramer of the University of Utah is our incoming President Elect. Alyssa Crittenden of UNLV and Jeremy Koster of the University of Cincinnati are our incoming Executive Board Members. Drew Gerkey of Oregon State University is our incoming Treasurer.  Adam Reynolds of the University of New Mexico is our incoming Student Representative.  Congratulations to all of our incoming officers, and many thanks to those who were willing to run for office!
+We’d like to start by announcing the winners of the EAS Election: *Karen Kramer* of the University of Utah is our incoming President Elect. *Alyssa Crittenden* of UNLV and Jeremy Koster of the University of Cincinnati are our incoming Executive Board Members. *Drew Gerkey* of Oregon State University is our incoming Treasurer.  *Adam Reynolds* of the University of New Mexico is our incoming Student Representative.  Congratulations to all of our incoming officers, and many thanks to those who were willing to run for office!
 
 As you all know, in the coming year we have a big decision to make about the future home of EAS. We have been meeting with the leadership of other organizations, and in October we expect to circulate information on these discussions to the EAS membership. This topic will be the focus of the EAS business meeting at the annual AAA meetings in Vancouver prior to a vote of the membership later this year. 
 
