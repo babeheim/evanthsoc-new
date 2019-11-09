@@ -35,8 +35,8 @@ EAS aims to be a unifying force in the AAA, not a divisive one. As anthropologis
 
 # Board Members
 
-- [Mary Shenk](http://faculty.missouri.edu/~shenkm/), Past-President (2018-20)
-- [Brooke Scelza](https://www.anthro.ucla.edu/faculty/brooke-scelza), President (2018-20)
+- [Mary Shenk](http://faculty.missouri.edu/~shenkm/), Past-President (2020-20)
+- [Brooke Scelza](https://www.anthro.ucla.edu/faculty/brooke-scelza), President (2020-20)
 - [Karen Kramer](https://anthro.utah.edu/faculty/kkramer/), President-Elect (2020-22)
 - Drew Gerkey, Treasurer (2020-22)
 - Chris von Rueden, Member-at-Large (2018-22)
