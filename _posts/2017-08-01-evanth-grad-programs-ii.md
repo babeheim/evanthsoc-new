@@ -8,7 +8,7 @@ layout: single
 
 # Other West-Coast Schools
 
-This is the second in a series highlighting US graduate programs in evolutionary anthropology. This and the following installation continues with West Coast schools outside of California. All programs were asked to answer the 6 questions below. Here, in no particular order, are abbreviated responses from U Oregon, U Nevada Las Vegas, U Utah, Washington State U, and Boise State U. See here for the full responses from all programs contacted so far.
+This is the second in a series highlighting US graduate programs in evolutionary anthropology. This and the following installation continues with West Coast schools outside of California. All programs were asked to answer the 6 questions below. Here, in no particular order, are abbreviated responses from U Oregon, U Nevada Las Vegas, U Utah, Washington State U, and Boise State U. See [here](https://docs.google.com/document/d/1oXNquX8sNenA7YeIJiG30xVlfmNtH3WDh_L-b_0ozJ4/edit#heading=h.8ys4ah5knwst) for the full responses from all programs contacted so far.
 
   1. What are areas of expertise in your department related to evolutionary anthropology?
   2. What funding opportunities are available for graduate students?

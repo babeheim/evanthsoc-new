@@ -8,7 +8,7 @@ layout: single
 
 # Midwest and Southern Schools
 
-This is the third in a series highlighting US graduate programs in evolutionary anthropology. This installation continues with schools in the Midwest and the South. All programs were asked to answer the 6 questions below. Here, in no particular order, are abbreviated responses from the University of Missouri, the University of Michigan, Emory University, Northwestern University, and Texas A&M University.  See here for the full responses from all programs contacted so far.
+This is the third in a series highlighting US graduate programs in evolutionary anthropology. This installation continues with schools in the Midwest and the South. All programs were asked to answer the 6 questions below. Here, in no particular order, are abbreviated responses from the University of Missouri, the University of Michigan, Emory University, Northwestern University, and Texas A&M University.  See [here](https://docs.google.com/document/d/1oXNquX8sNenA7YeIJiG30xVlfmNtH3WDh_L-b_0ozJ4/edit#heading=h.8ys4ah5knwst) for the full responses from all programs contacted so far.
 
 1. What are areas of expertise in your department related to evolutionary anthropology?
 2. What funding opportunities are available for graduate students?

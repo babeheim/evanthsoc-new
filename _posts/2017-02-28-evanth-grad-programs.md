@@ -9,7 +9,7 @@ layout: single
 # The California Schools
 
 This is the first in a series of posts that highlight current evolutionary anthropology graduate programs—an update of a similar series written by Mary Shenk in 2005 and 2006. Each program was asked the same 6 questions and you can nd their answers below. They all put a lot of time and eort into answering these questions, but due to column length requirements we have to
-paraphrase. Full answers can be found here.
+paraphrase. Full answers can be found [here](https://docs.google.com/document/d/1oXNquX8sNenA7YeIJiG30xVlfmNtH3WDh_L-b_0ozJ4/edit#heading=h.8ys4ah5knwst).
 
 ## UCLA
 
